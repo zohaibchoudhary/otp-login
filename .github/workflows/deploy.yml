@@ -1,4 +1,4 @@
-name: Deploy app to Alpine Server
+name: Deploy app to AWS EC2 Server
 
 on:
   push:
